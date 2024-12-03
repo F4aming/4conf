@@ -1,0 +1,5 @@
+Instruction,Param1,Param2,Param3
+LOAD_CONST,10,5,
+LOAD_CONST,11,3,
+SHR,12,10,11
+STORE_MEM,13,12,
